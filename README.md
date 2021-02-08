@@ -32,7 +32,7 @@
     Este curso é um treinamento feito em alguns meses que aborda as principais tecnologias atuais no mercado, divindo conteúdos em níveis para o melhor entendimento e possuí aulas detalhadas e desafios ao final dos módulos.
   </p>
   <p>Confira o último módulo feito: 
-    <a href="https://github.com/Tiaguin061/Gostack-ReactJS-nivel1"> Sobre ReactJS</a>
+    <a href="https://github.com/Tiaguin061/Gostack-nodejs-nivel1"> Sobre NodeJS</a>
   </p>
 
 </br>
