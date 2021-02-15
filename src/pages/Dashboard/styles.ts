@@ -55,7 +55,6 @@ export const Repositories = styled.div`
 
     display: flex;
     align-items: center;
-    gap: 16px;
     transition: transform 0.3s;
 
     & + a {
@@ -73,9 +72,11 @@ export const Repositories = styled.div`
     }
 
     div {
+      margin: 0 16px;
       strong {
         font-size: 20px;
         color: #3D3D4D;
+        flex: 1;
       }
 
       p {
