@@ -9,6 +9,7 @@ export default createGlobalStyle`
     outline: 0;
     box-sizing: border-box;
     border: 0;
+    list-style: none;
   }
 
   a, button {
