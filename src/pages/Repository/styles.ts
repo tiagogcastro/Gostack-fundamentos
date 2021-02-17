@@ -115,3 +115,12 @@ export const Issues = styled.div`
     }
   }
 `;
+
+export const NotIssues = styled.div`
+  div {
+    p {
+      color: #a8a8b3;
+      font: 1.2rem bold, sans-serif; 
+    }
+  }
+`;
