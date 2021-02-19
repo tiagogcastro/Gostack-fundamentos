@@ -20,7 +20,7 @@
 <div align="left">
   <h1 id="sobre-o-projeto"> ✅ Sobre o projeto </h1>
   <p>
-    Este é um dos módulos do Gostack, que tem como objetivo passar conhecimentos básicos de React Native, um framework para criar apps mobile para IOS e ANDROID utilizando Javascript.
+    Este é um dos módulos do Gostack, que tem como objetivo passar conhecimentos básicos de React Native renderizando informações vindas da API.
   </p>
 </div>
 
@@ -32,7 +32,7 @@
     Este curso é um treinamento feito em alguns meses que aborda as principais tecnologias atuais no mercado, divindo conteúdos em níveis para o melhor entendimento e possuí aulas detalhadas e desafios ao final dos módulos.
   </p>
   <p>Confira o último módulo feito: 
-    <a href="https://github.com/Tiaguin061/Gostack-ReactJS-nivel1"> Sobre ReactJS</a>
+    <a href="https://github.com/Tiaguin061/Gostack-ReactJS-Fundamentos"> Sobre ReactJS</a>
   </p>
 
 </br>
