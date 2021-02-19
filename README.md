@@ -20,7 +20,7 @@
 <div align="left">
   <h1 id="sobre-o-projeto"> ✅ Sobre o projeto </h1>
   <p>
-    Este é um dos módulos do Gostack, que tem como objetivo passar conhecimentos de NodeJs onde cria uma api de projetos para utilizar nos 2 módulos em seguida.
+    Este é um dos módulos do Gostack, que tem como objetivo passar conhecimentos de NodeJs onde cria uma api de cadastros de projetos.
   </p>
 </div>
 
